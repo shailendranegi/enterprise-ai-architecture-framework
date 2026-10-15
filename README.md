@@ -17,7 +17,7 @@ The Enterprise AI Architecture Framework provides a structured approach to desig
 
 EAIF v1.0 is the first public release.
 
-[Download EAIF v1.0 (PDF)](https://github.com/shailendranegi/enterprise-ai-architecture-framework/releases/latest/download/EAIF_v1.0.pdf)
+[Download EAIF v1.0 (PDF)](https://github.com/shailendranegi/enterprise-ai-architecture-framework/blob/main/EAIF_v1.0.pdf)
 
 **DOI:** Not assigned.
 
