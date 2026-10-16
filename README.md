@@ -1,4 +1,4 @@
-# Enterprise AI Architecture Framework
+# Enterprise AI Framework (EAIF)
 
 **EAIF v1.0**
 
@@ -11,19 +11,19 @@ A practical framework for structuring enterprise AI architecture across Control,
 
 ## About EAIF
 
-The Enterprise AI Architecture Framework provides a structured approach to designing enterprise AI systems. It organizes three principles, four domains, and ten capabilities.
+The Enterprise AI Framework provides a structured approach to designing enterprise AI systems. It organizes three principles, four domains, and ten capabilities.
 
 ## Framework Publication
 
 EAIF v1.0 is the first public release.
 
-[Download EAIF v1.0 (PDF)](https://github.com/shailendranegi/enterprise-ai-architecture-framework/blob/main/EAIF_v1.0.pdf)
+[Download EAIF v1.0 (PDF)](./EAIF_v1.0.pdf)
 
 **DOI:** Not assigned.
 
 ## Citation
 
-> Negi, Shailendra Singh. *Enterprise AI Architecture Framework (EAIF)*. Version 1.0. 15 October 2026.
+> Negi, Shailendra Singh. *Enterprise AI Framework (EAIF)*. Version 1.0. 15 October 2026.
 
 ## License
 
@@ -35,4 +35,4 @@ You may share the publication unchanged for noncommercial purposes with attribut
 
 When sharing the publication, include the author's name and a link to the original repository.
 
-**Suggested attribution:** Shailendra Singh Negi, *Enterprise AI Architecture Framework (EAIF) v1.0*. [Original source](https://github.com/shailendranegi/enterprise-ai-architecture-framework). Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+**Suggested attribution:** Shailendra Singh Negi, *Enterprise AI Framework (EAIF) v1.0*. [Original source](https://github.com/shailendranegi/enterprise-ai-architecture-framework). Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
